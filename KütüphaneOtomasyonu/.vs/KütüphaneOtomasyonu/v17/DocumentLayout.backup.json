@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merty\\source\\repos\\K\u00FCt\u00FCphaneOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074141-4CAE-44CA-898B-3853A6F5C37A}|K\u00FCt\u00FCphaneOtomasyonu\\K\u00FCt\u00FCphaneOtomasyonu.csproj|c:\\users\\merty\\source\\repos\\k\u00FCt\u00FCphaneotomasyonu\\k\u00FCt\u00FCphaneotomasyonu\\grafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074141-4CAE-44CA-898B-3853A6F5C37A}|K\u00FCt\u00FCphaneOtomasyonu\\K\u00FCt\u00FCphaneOtomasyonu.csproj|solutionrelative:k\u00FCt\u00FCphaneotomasyonu\\grafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074141-4CAE-44CA-898B-3853A6F5C37A}|K\u00FCt\u00FCphaneOtomasyonu\\K\u00FCt\u00FCphaneOtomasyonu.csproj|C:\\Users\\merty\\source\\repos\\K\u00FCt\u00FCphaneOtomasyonu\\k\u00FCt\u00FCphaneotomasyonu\\grafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4074141-4CAE-44CA-898B-3853A6F5C37A}|K\u00FCt\u00FCphaneOtomasyonu\\K\u00FCt\u00FCphaneOtomasyonu.csproj|solutionrelative:k\u00FCt\u00FCphaneotomasyonu\\grafikler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074141-4CAE-44CA-898B-3853A6F5C37A}|K\u00FCt\u00FCphaneOtomasyonu\\K\u00FCt\u00FCphaneOtomasyonu.csproj|C:\\Users\\merty\\source\\repos\\K\u00FCt\u00FCphaneOtomasyonu\\k\u00FCt\u00FCphaneotomasyonu\\geli\u015Fmi\u015Faramafiltreleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4074141-4CAE-44CA-898B-3853A6F5C37A}|K\u00FCt\u00FCphaneOtomasyonu\\K\u00FCt\u00FCphaneOtomasyonu.csproj|solutionrelative:k\u00FCt\u00FCphaneotomasyonu\\geli\u015Fmi\u015Faramafiltreleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4074141-4CAE-44CA-898B-3853A6F5C37A}|K\u00FCt\u00FCphaneOtomasyonu\\K\u00FCt\u00FCphaneOtomasyonu.csproj|C:\\Users\\merty\\source\\repos\\K\u00FCt\u00FCphaneOtomasyonu\\k\u00FCt\u00FCphaneotomasyonu\\geli\u015Fmi\u015Faramafiltreleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E4074141-4CAE-44CA-898B-3853A6F5C37A}|K\u00FCt\u00FCphaneOtomasyonu\\K\u00FCt\u00FCphaneOtomasyonu.csproj|solutionrelative:k\u00FCt\u00FCphaneotomasyonu\\geli\u015Fmi\u015Faramafiltreleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Geli\u015Fmi\u015FAramaFiltreleme.cs",
+              "DocumentMoniker": "C:\\Users\\merty\\source\\repos\\K\u00FCt\u00FCphaneOtomasyonu\\K\u00FCt\u00FCphaneOtomasyonu\\Geli\u015Fmi\u015FAramaFiltreleme.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphaneOtomasyonu\\Geli\u015Fmi\u015FAramaFiltreleme.cs",
+              "ToolTip": "C:\\Users\\merty\\source\\repos\\K\u00FCt\u00FCphaneOtomasyonu\\K\u00FCt\u00FCphaneOtomasyonu\\Geli\u015Fmi\u015FAramaFiltreleme.cs",
+              "RelativeToolTip": "K\u00FCt\u00FCphaneOtomasyonu\\Geli\u015Fmi\u015FAramaFiltreleme.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:12:16.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Geli\u015Fmi\u015FAramaFiltreleme.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\merty\\source\\repos\\K\u00FCt\u00FCphaneOtomasyonu\\K\u00FCt\u00FCphaneOtomasyonu\\Geli\u015Fmi\u015FAramaFiltreleme.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphaneOtomasyonu\\Geli\u015Fmi\u015FAramaFiltreleme.cs",
+              "ToolTip": "C:\\Users\\merty\\source\\repos\\K\u00FCt\u00FCphaneOtomasyonu\\K\u00FCt\u00FCphaneOtomasyonu\\Geli\u015Fmi\u015FAramaFiltreleme.cs [Tasar\u0131m]",
+              "RelativeToolTip": "K\u00FCt\u00FCphaneOtomasyonu\\Geli\u015Fmi\u015FAramaFiltreleme.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:08:52.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grafikler.cs",
+              "DocumentMoniker": "C:\\Users\\merty\\source\\repos\\K\u00FCt\u00FCphaneOtomasyonu\\K\u00FCt\u00FCphaneOtomasyonu\\Grafikler.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphaneOtomasyonu\\Grafikler.cs",
+              "ToolTip": "C:\\Users\\merty\\source\\repos\\K\u00FCt\u00FCphaneOtomasyonu\\K\u00FCt\u00FCphaneOtomasyonu\\Grafikler.cs*",
+              "RelativeToolTip": "K\u00FCt\u00FCphaneOtomasyonu\\Grafikler.cs*",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAwEUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:06:25.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grafikler.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\merty\\source\\repos\\K\u00FCt\u00FCphaneOtomasyonu\\K\u00FCt\u00FCphaneOtomasyonu\\Grafikler.cs",
+              "RelativeDocumentMoniker": "K\u00FCt\u00FCphaneOtomasyonu\\Grafikler.cs",
+              "ToolTip": "C:\\Users\\merty\\source\\repos\\K\u00FCt\u00FCphaneOtomasyonu\\K\u00FCt\u00FCphaneOtomasyonu\\Grafikler.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "K\u00FCt\u00FCphaneOtomasyonu\\Grafikler.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:06:23.972Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
