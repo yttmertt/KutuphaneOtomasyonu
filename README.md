@@ -10,24 +10,59 @@ Bu proje kütüphanelerin kitap kayıt işlemleri, okuyucu kayıt işlemleri, ö
 * Üyelerin sisteme kolayca kayıt edilmesi ve düzenlenmesi
 * Sistemde raporların sıralama ve grafikler olarak rahatlıkla gösterilmesi
 
+Nasıl Çalışır?
+
+Bu C# Windows Forms uygulamasını çalıştırmak için Visual Studio gereklidir.
+
+1.  **Gerekli Yazılımlar:**
+    Visual Studio, .NET Framework/Core, MMSQL
+
+2.  **Projeyi Açma:** Visual Studio'da .sln dosyasını açın.
+
+3.  **Projeyi Derleme:** Projeye sağ tıklayıp "Derle" ile .exe dosyasını bin\Debug veya bin\Release klasöründe oluşturun.
+
+4.  **Uygulamayı Çalıştırma:** .exe dosyasını çift tıklayarak çalıştırın.
+
+**Notlar:**
+
+* Veritabanı/kaynakların doğru yapılandırıldığından emin olun.
+* NuGet paketleri Visual Studio tarafından yüklenir.
+
+
+
 Ekran Görüntüleri
 
-![Ekran görüntüsü 2025-04-21 230442](https://github.com/user-attachments/assets/50da55f2-69b2-4a94-8c4a-f7d23d004376)
+![Ekran görüntüsü 2025-04-27 170351](https://github.com/user-attachments/assets/c386f261-7374-49ae-83b3-ddf0ec4ff672)
 
-![Ekran görüntüsü 2025-04-21 230501](https://github.com/user-attachments/assets/8dbcd41c-a5cb-4c21-8633-222addf8127a)
+ÜYELERİ SİSTEME KAYIT EDERİZ
+![Ekran görüntüsü 2025-04-27 170421](https://github.com/user-attachments/assets/4e5aa182-201e-49ae-b92b-65287a8c4fc6)
 
-![Ekran görüntüsü 2025-04-21 230525](https://github.com/user-attachments/assets/2deef059-79a6-48de-ab9c-286fad6daf1d)
+ÜYELERİN BİLGİLERİNİ GÜNCELLERİZ
+![Ekran görüntüsü 2025-04-27 170441](https://github.com/user-attachments/assets/f5bf02c3-9b94-418f-b5ea-3be6216d4c4b)
 
-![Ekran görüntüsü 2025-04-21 230537](https://github.com/user-attachments/assets/5ae6b6ad-9b1b-4ab6-b0ec-e44a37662acb)
+SİSTEME KİTAP EKLERİZ
+![Ekran görüntüsü 2025-04-27 170451](https://github.com/user-attachments/assets/69362277-4599-4cc6-b77b-2d59b12d9852)
 
-![Ekran görüntüsü 2025-04-21 230555](https://github.com/user-attachments/assets/a6e52c8a-01f4-48bf-bc7b-2df55a32c9d3)
+KİTAPLARIN BİLGİLERİNİ GÜNCELLERİZ
+![Ekran görüntüsü 2025-04-27 170501](https://github.com/user-attachments/assets/a1d8cbaa-96fa-4a56-815a-b4fa70a8fccf)
 
-![Ekran görüntüsü 2025-04-21 230627](https://github.com/user-attachments/assets/9bceb3ba-cd73-45c6-bb31-f332c25b4653)
+VERİTABANIMIZDAKİ VERİLERİ BAZI KRİTERLERE GÖRE SIRALARIZ
+![Ekran görüntüsü 2025-04-27 170522](https://github.com/user-attachments/assets/8aac4381-ad68-4f41-9a13-56bd00b4107c)
 
-![Ekran görüntüsü 2025-04-21 230700](https://github.com/user-attachments/assets/d90eba44-12cb-40ba-b720-c4a3960e523c)
+ÜYELERİN CEZALARINI GRAFİKTE GÖSTERİRİZ
+![Ekran görüntüsü 2025-04-27 170543](https://github.com/user-attachments/assets/ab7a4b37-1f4d-4ffc-954a-9dc351830ba6)
 
-![Ekran görüntüsü 2025-04-21 230721](https://github.com/user-attachments/assets/924b03ff-e668-4c74-8fba-fced9fef89d8)
+ÜYELERİN KAÇ KİTAP OKUDUĞUNU GRAFİKTE GÖSTERİRİZ
+![Ekran görüntüsü 2025-04-27 170556](https://github.com/user-attachments/assets/275e993a-4202-4003-9fb9-bf34a2118ad2)
 
-![Ekran görüntüsü 2025-04-21 230748](https://github.com/user-attachments/assets/849d4edd-6f08-4f5a-b536-22c9d43014bc)
+ÜYELERİMİZİN SEPETİNE KİTAPLAR EKLERİZ VE TESLİM ET BUTONUNA BASINCA TC Sİ YAZAN ÜYEYE TESLİM EDERİZ
+![Ekran görüntüsü 2025-04-27 170623](https://github.com/user-attachments/assets/0cd693b3-d166-4ce5-9b15-f85248321a18)
 
-![Ekran görüntüsü 2025-04-21 230804](https://github.com/user-attachments/assets/d5894089-6602-4357-880b-fc807afcde7d)
+HANGİ ÜYEMİZDE HANGİ KİTAP TESLİM EDİLMİŞSE LİSTEDEN GÖSTERİRİZ VE LİSTEDEN SEÇERSEK GECİKMİŞ İSE CEZA YAZAR EĞER GECİKMEMİŞ İSE CEZA ALMADAN İADE EDER
+![Ekran görüntüsü 2025-04-27 170641](https://github.com/user-attachments/assets/1114d42b-fc80-4542-91f5-af5ef9ce3e90)
+
+KİMDE HANGİ KİTAP VAR ONU LİSTELERİZ VE GECİKMİŞ,TESLİM EDİLMESİ GEREK,SÜRESİ VAR GİBİ KRİTERLERE GÖRE SIRALAR
+![Ekran görüntüsü 2025-04-27 170706](https://github.com/user-attachments/assets/a92d1eaf-9ecd-44fc-a465-0c9d27bb7124)
+
+
+
