@@ -2,7 +2,10 @@
 
 Bu proje kütüphanelerin kitap kayıt işlemleri, okuyucu kayıt işlemleri, ödünç al - ver işlemleri ve raporlama sistemini kullanan adına kolaylık olsun diye tasarlanmıştır.
 
-Özellikler
+**Kullanılan Teknolojiler**
+C# FORM VE MİCROSOFT SQL SERVER
+
+**Özellikler**
 * Bilgileri veritabanına eş zamanlı kayıt etmek
 * Ödünç alma sisteminin kolaylığı
 * Gecikmiş ve teslim edilmemiş kitapların kolay takibinin yapılması ve renklendirilmesi
@@ -10,7 +13,7 @@ Bu proje kütüphanelerin kitap kayıt işlemleri, okuyucu kayıt işlemleri, ö
 * Üyelerin sisteme kolayca kayıt edilmesi ve düzenlenmesi
 * Sistemde raporların sıralama ve grafikler olarak rahatlıkla gösterilmesi
 
-Nasıl Çalışır?
+**Nasıl Çalışır?**
 
 Bu C# Windows Forms uygulamasını çalıştırmak için Visual Studio gereklidir.
 
@@ -30,7 +33,7 @@ Bu C# Windows Forms uygulamasını çalıştırmak için Visual Studio gereklidi
 
 
 
-Ekran Görüntüleri
+**Ekran Görüntüleri**
 
 ![Ekran görüntüsü 2025-04-27 170351](https://github.com/user-attachments/assets/c386f261-7374-49ae-83b3-ddf0ec4ff672)
 
