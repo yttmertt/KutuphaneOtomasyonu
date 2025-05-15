@@ -35,6 +35,8 @@ Bu C# Windows Forms uygulamasını çalıştırmak için Visual Studio gereklidi
 
 **Ekran Görüntüleri**
 
+ANA EKRAN
+
 ![Ekran görüntüsü 2025-04-27 170351](https://github.com/user-attachments/assets/c386f261-7374-49ae-83b3-ddf0ec4ff672)
 
 ÜYELERİ SİSTEME KAYIT EDERİZ
